@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7184845b3d1c42845b4ef220c08bf6e9, type: 3}
+  m_Name: Afterglow
+  m_EditorClassIdentifier: 
+  title: Afterglow
+  notes:
+  - noteId: 0
+    spawnBeat: 0
+    displaySeconds: 1.8
+  - noteId: 2
+    spawnBeat: 1
+    displaySeconds: 0.7
+  - noteId: 4
+    spawnBeat: 2
+    displaySeconds: 0.54
+  - noteId: 6
+    spawnBeat: 3
+    displaySeconds: 1.35
+  - noteId: 5
+    spawnBeat: 4
+    displaySeconds: 0.92
+  - noteId: 4
+    spawnBeat: 5
+    displaySeconds: 0.72
+  - noteId: 3
+    spawnBeat: 6
+    displaySeconds: 1.6
+  - noteId: 2
+    spawnBeat: 7
+    displaySeconds: 0.68
+  - noteId: 1
+    spawnBeat: 8
+    displaySeconds: 0.9
+  - noteId: 3
+    spawnBeat: 9
+    displaySeconds: 1.15
+  - noteId: 2
+    spawnBeat: 10
+    displaySeconds: 0.72
+  - noteId: 1
+    spawnBeat: 11
+    displaySeconds: 0.64
+  - noteId: 0
+    spawnBeat: 12
+    displaySeconds: 2.3

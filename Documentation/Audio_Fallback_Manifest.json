@@ -1,0 +1,77 @@
+{
+  "sample_origin": "TimGM6mb recorded-sample-based SoundFont piano patch; NOT 7 verified independent-key Meta/Iowa recordings",
+  "license": "GPL-2.0",
+  "download_status": "not_downloaded",
+  "files": [
+    {
+      "id": 0,
+      "note": "C5",
+      "filename": "Piano_C5.wav",
+      "sample_rate_hz": 44100,
+      "bit_depth": 16,
+      "channels": 1,
+      "duration_s": 1.8,
+      "sha256": "d5907db0d1d517c7f07e8625805cb05583112d149bb0a79545f27143d34c6251"
+    },
+    {
+      "id": 1,
+      "note": "D5",
+      "filename": "Piano_D5.wav",
+      "sample_rate_hz": 44100,
+      "bit_depth": 16,
+      "channels": 1,
+      "duration_s": 1.8,
+      "sha256": "24d4a9e2fe80eeaebd2e4f2c2571bc9fd757c756897dc5b2313bd09ac70acf1c"
+    },
+    {
+      "id": 2,
+      "note": "E5",
+      "filename": "Piano_E5.wav",
+      "sample_rate_hz": 44100,
+      "bit_depth": 16,
+      "channels": 1,
+      "duration_s": 1.8,
+      "sha256": "36a4ebc6d78326b4861de1b38f846617368243cc2264cfffed34ddf511d83c11"
+    },
+    {
+      "id": 3,
+      "note": "F5",
+      "filename": "Piano_F5.wav",
+      "sample_rate_hz": 44100,
+      "bit_depth": 16,
+      "channels": 1,
+      "duration_s": 1.8,
+      "sha256": "96747fb1706138ade89fbeb787947bb10067b829aa1f4cbc415cfab6920a28ac"
+    },
+    {
+      "id": 4,
+      "note": "G5",
+      "filename": "Piano_G5.wav",
+      "sample_rate_hz": 44100,
+      "bit_depth": 16,
+      "channels": 1,
+      "duration_s": 1.8,
+      "sha256": "e012c9b2c507b09e0260486621bd68f07f942745ba14288c8ae99de27c608ae4"
+    },
+    {
+      "id": 5,
+      "note": "A5",
+      "filename": "Piano_A5.wav",
+      "sample_rate_hz": 44100,
+      "bit_depth": 16,
+      "channels": 1,
+      "duration_s": 1.8,
+      "sha256": "299304a40e14424b4e8a2a16d9ac88de8e25db94592982e43f89cd22e08149aa"
+    },
+    {
+      "id": 6,
+      "note": "B5",
+      "filename": "Piano_B5.wav",
+      "sample_rate_hz": 44100,
+      "bit_depth": 16,
+      "channels": 1,
+      "duration_s": 1.8,
+      "sha256": "28014d4c55e5b954b15ae3156d1baa71c5feceefe2c59ad5613e5f39c7c26d18"
+    }
+  ]
+}

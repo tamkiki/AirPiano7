@@ -1,0 +1,120 @@
+{
+  "midi": "adele-someone_like_you.mid",
+  "midi_sha256": "3472d7ff5b54a00200e09454debef73b971f1852af2c34a94d53c0ae6a765304",
+  "clip_seconds": 93,
+  "playable_notes": 496,
+  "backing_notes": 90,
+  "sample_license": "CC0-1.0",
+  "samples": [
+    {
+      "midi": 26,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_D1_01.ogg",
+      "sha256": "e5824ec238de032942f24a7caf91d24a882422cca7865ca585d41bd2e69efeb4"
+    },
+    {
+      "midi": 28,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_E1_01.ogg",
+      "sha256": "b1f35eb6be376bb7b62b34a619ed29604eab39a395cbc1fabbc655f9961df71c"
+    },
+    {
+      "midi": 30,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_Fs1_01.ogg",
+      "sha256": "217f67ab232758cd6b11c080ad84a1a061d3b1275c7440c35ae8cb6b7be085ea"
+    },
+    {
+      "midi": 33,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_A1_01.ogg",
+      "sha256": "9d215b9f1bbe3e630c7f47d83e85be6b9cb166b8d263ad945e44930d16b2adf3"
+    },
+    {
+      "midi": 38,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_D2_01.ogg",
+      "sha256": "ef826b70127c02120d17f705df2804427ee466ebe4e1d8f4f5e82a655d6bea7a"
+    },
+    {
+      "midi": 40,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_E2_01.ogg",
+      "sha256": "1dcfbf1f3e1f127b85d4be17ad3f7d0e40b3d79d0f9d64e9dcdeac62b439c356"
+    },
+    {
+      "midi": 42,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_Fs2_01.ogg",
+      "sha256": "0d275cbdc32645059ecce4c64e01252c7ad99a0e75b4052d5477d3c2d9790941"
+    },
+    {
+      "midi": 44,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_Gs2_01.ogg",
+      "sha256": "f64007ca6de65eee337974d912897fc49904064e10487ec11fb7926e7b7526a0"
+    },
+    {
+      "midi": 45,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_A2_01.ogg",
+      "sha256": "71ef0ebc2849942eed1a73b70c8db1c55459cf740bd3e8018bc07f2fd3c9c1ec"
+    },
+    {
+      "midi": 49,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_Cs3_01.ogg",
+      "sha256": "68258818443ee5832c31ed9165773d37a75c2ff73565698b160c0fffdea65e53"
+    },
+    {
+      "midi": 50,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_D3_01.ogg",
+      "sha256": "69900f6e87c6d673bfee28ade15cc8ddd7f7f3a06cf3e1d6094ca6be36483955"
+    },
+    {
+      "midi": 52,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_E3_01.ogg",
+      "sha256": "ee679c1840ffadfb0dddf8c0b14e4bb97100524f367e7f74e55a63319f45e4ef"
+    },
+    {
+      "midi": 54,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_Fs3_01.ogg",
+      "sha256": "b83a78a96d0da06bf55cf72fbef8c5993b94d493b28dc42ca14027ead9874a51"
+    },
+    {
+      "midi": 56,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_Gs3_01.ogg",
+      "sha256": "806aa656e9ca86bfa9781f8381ee2205d8431aee1f8eb7d6866cca6cfb5ade37"
+    },
+    {
+      "midi": 57,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_A3_01.ogg",
+      "sha256": "850826ac767280c8d131f4992fa448b13122b5efb5d3147ff5c7c6d405e1e7f3"
+    },
+    {
+      "midi": 59,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_B3_01.ogg",
+      "sha256": "1c239537fc6875abd7cb8fa6292e2562fd7790dd6fd04a00846aa960550f773f"
+    },
+    {
+      "midi": 61,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_Cs4_01.ogg",
+      "sha256": "d5dd96b175dab36a7d4057f4d5e4484e6516d03b0dd412ff1d2dfb79652a5d2c"
+    },
+    {
+      "midi": 62,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_D4_01.ogg",
+      "sha256": "1454a1a58516049bb30322ce6bf640860690d4f49de8ce03bf229a14a8969008"
+    },
+    {
+      "midi": 64,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_E4_01.ogg",
+      "sha256": "f5b314c5412e84ff9ac5ed8a92da4b3058cbfd3d4cd80c30dcfe333fb6102315"
+    },
+    {
+      "midi": 66,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_Fs4_01.ogg",
+      "sha256": "ef3cadc2b5c847624b8951f24a486072257b68ba6d02293d8c920295affd1435"
+    },
+    {
+      "midi": 68,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_Gs4_01.ogg",
+      "sha256": "5120e6bf1ec02ccc1bdb946610c801e9160bf2d3c799c953167d5f353a7289a6"
+    },
+    {
+      "midi": 69,
+      "ogg": "https://raw.githubusercontent.com/facebookincubator/Meta-open-sound/main/systems/instruments/meta-piano/ogg/INSPiano_Vel03_A4_01.ogg",
+      "sha256": "304ffb429312f6a8e8dc7daf141eae3f23b4ddca147022442e9457de3f95b1d8"
+    }
+  ]
+}

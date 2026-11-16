@@ -1,0 +1,240 @@
+{
+  "duration": 90.69333333333333,
+  "pitches": [],
+  "notes": [
+    {
+      "noteId": 4,
+      "spawnBeat": 0.4447,
+      "displaySeconds": 0.46,
+      "midiPitch": 76
+    },
+    {
+      "noteId": 2,
+      "spawnBeat": 4.7449,
+      "displaySeconds": 0.46,
+      "midiPitch": 73
+    },
+    {
+      "noteId": 4,
+      "spawnBeat": 7.768,
+      "displaySeconds": 0.46,
+      "midiPitch": 76
+    },
+    {
+      "noteId": 1,
+      "spawnBeat": 10.422,
+      "displaySeconds": 0.46,
+      "midiPitch": 83
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 12.178,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 2,
+      "spawnBeat": 14.0937,
+      "displaySeconds": 0.46,
+      "midiPitch": 73
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 16.0991,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 4,
+      "spawnBeat": 18.4438,
+      "displaySeconds": 0.46,
+      "midiPitch": 76
+    },
+    {
+      "noteId": 1,
+      "spawnBeat": 20.7585,
+      "displaySeconds": 0.46,
+      "midiPitch": 83
+    },
+    {
+      "noteId": 4,
+      "spawnBeat": 23.7717,
+      "displaySeconds": 0.46,
+      "midiPitch": 76
+    },
+    {
+      "noteId": 1,
+      "spawnBeat": 26.4256,
+      "displaySeconds": 0.46,
+      "midiPitch": 83
+    },
+    {
+      "noteId": 5,
+      "spawnBeat": 28.3513,
+      "displaySeconds": 0.46,
+      "midiPitch": 78
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 30.4365,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 32.7712,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 35.076,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 37.4306,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 39.5059,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 2,
+      "spawnBeat": 43.1277,
+      "displaySeconds": 0.46,
+      "midiPitch": 73
+    },
+    {
+      "noteId": 2,
+      "spawnBeat": 45.1032,
+      "displaySeconds": 0.46,
+      "midiPitch": 73
+    },
+    {
+      "noteId": 2,
+      "spawnBeat": 47.1984,
+      "displaySeconds": 0.46,
+      "midiPitch": 73
+    },
+    {
+      "noteId": 2,
+      "spawnBeat": 49.0941,
+      "displaySeconds": 0.46,
+      "midiPitch": 73
+    },
+    {
+      "noteId": 2,
+      "spawnBeat": 51.2093,
+      "displaySeconds": 0.46,
+      "midiPitch": 73
+    },
+    {
+      "noteId": 2,
+      "spawnBeat": 53.095,
+      "displaySeconds": 0.46,
+      "midiPitch": 73
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 55.4397,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 5,
+      "spawnBeat": 57.3454,
+      "displaySeconds": 0.46,
+      "midiPitch": 78
+    },
+    {
+      "noteId": 1,
+      "spawnBeat": 59.7699,
+      "displaySeconds": 0.46,
+      "midiPitch": 83
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 61.7653,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 1,
+      "spawnBeat": 64.7585,
+      "displaySeconds": 0.46,
+      "midiPitch": 83
+    },
+    {
+      "noteId": 1,
+      "spawnBeat": 66.764,
+      "displaySeconds": 0.46,
+      "midiPitch": 83
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 68.7794,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 1,
+      "spawnBeat": 71.1041,
+      "displaySeconds": 0.46,
+      "midiPitch": 83
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 73.4388,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 1,
+      "spawnBeat": 75.7635,
+      "displaySeconds": 0.46,
+      "midiPitch": 83
+    },
+    {
+      "noteId": 1,
+      "spawnBeat": 78.0982,
+      "displaySeconds": 0.46,
+      "midiPitch": 83
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 80.0937,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 0,
+      "spawnBeat": 82.7676,
+      "displaySeconds": 0.46,
+      "midiPitch": 69
+    },
+    {
+      "noteId": 2,
+      "spawnBeat": 85.0923,
+      "displaySeconds": 0.46,
+      "midiPitch": 73
+    },
+    {
+      "noteId": 2,
+      "spawnBeat": 87.447,
+      "displaySeconds": 0.46,
+      "midiPitch": 73
+    },
+    {
+      "noteId": 2,
+      "spawnBeat": 89.9712,
+      "displaySeconds": 0.46,
+      "midiPitch": 73
+    }
+  ]
+}
